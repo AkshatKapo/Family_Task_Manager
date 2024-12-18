@@ -1,0 +1,7 @@
+com\familytaskmanager\server\Server$ClientHandler.class
+com\familytaskmanager\FirebaseTasks.class
+com\familytaskmanager\FirebaseConfig.class
+com\familytaskmanager\server\Server.class
+com\familytaskmanager\model\Task.class
+com\familytaskmanager\client\Client.class
+com\familytaskmanager\FirebaseTasks$1.class
